@@ -1,5 +1,5 @@
 # 👨‍⚕️ Clinic Management System - Made using Python,Django
-<img alt="views" src="C:\Users\Acer\Desktop\Library-Management-System\librarymanagement\Screenshots\1.png"/>
+<img alt="views" src="librarymanagement\Screenshots\1.png"/>
 
 
 ## Admin Access
@@ -14,8 +14,8 @@
 #### -Go in correct location
 #### -run python manage.py changepassword admin cmd in python
 
-<img alt="views" src="C:\Users\Acer\Desktop\Library-Management-System\librarymanagement\Screenshots\2.png"/>
+<img alt="views" src="librarymanagement\Screenshots\2.png"/>
 
 
-<img alt="views" src="C:\Users\Acer\Desktop\Library-Management-System\librarymanagement\Screenshots\3.png"/>
+<img alt="views" src="librarymanagement\Screenshots\3.png"/>
 
